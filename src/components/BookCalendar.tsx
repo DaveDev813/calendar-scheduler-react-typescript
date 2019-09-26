@@ -163,9 +163,6 @@ const BookCalendar: React.FC = (props: any): ReactElement => {
         </DialogContent>
 
         <DialogActions>
-          {/* {appointmentActions.map((Actions: any) => (
-            <Actions />
-          ))} */}
           <Button
             variant="contained"
             color="secondary"
